@@ -4,10 +4,10 @@
 Summary: Check Login functionality
 
 Steps:
-<br 1- Go to Trello home page />
-<br 2- Click on Login />
-<br 3- Fill the username and the password />
-<br 4- Click on "Log In" />
+ 1- Go to Trello home page 
+ 2- Click on Login 
+ 3- Fill the username and the password 
+ 4- Click on "Log In" 
 
 Expected Results:
 - User is redirected to boards page
@@ -16,13 +16,13 @@ Expected Results:
 Summary: Check team creation functionality
 
 Steps:
-<br 1- Go to Trello home page />
-<br 2- Click on Login />
-<br 3- Fill the username and the password />
-<br 4- Click on Log In />
-<br 5- Click on "Create a team" button />
-<br 6- Fill the name and description />
-<br 7- Click on "Create" />
+ 1- Go to Trello home page 
+ 2- Click on Login 
+ 3- Fill the username and the password 
+ 4- Click on Log In 
+ 5- Click on "Create a team" button 
+ 6- Fill the name and description
+ 7- Click on "Create" 
 
 Expected Results:
 - User is redirected to created team page 

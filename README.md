@@ -62,7 +62,7 @@ To run tests, change the current working directory:
 cd TrelloChallenge
 ```
 
-And now you can run the demo tests using the command below:
+And now you can run the tests using the command below:
 
 ```bash
 mvnw clean test

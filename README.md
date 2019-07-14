@@ -1,21 +1,21 @@
 # TrelloChallenge
 
 # Test Case 1
-# Summary: Check Login functionality
+Summary: Check Login functionality
 
-# Steps:
+Steps:
 1- Go to Trello home page
 2- Click on Login 
 3- Fill the username and the password
 4- Click on "Log In"
 
-# Expected Results:
+Expected Results:
 - User is redirected to boards page
 
 # Test Case 2
-S# ummary: Check team creation functionality
+Summary: Check team creation functionality
 
-# Steps:
+Steps:
 1- Go to Trello home page
 2- Click on Login 
 3- Fill the username and the password
@@ -24,7 +24,7 @@ S# ummary: Check team creation functionality
 6- Fill the name and description
 7- Click on "Create"
 
-# Expected Results:
+Expected Results:
 - User is redirected to created team page
 - Team name and description are correctly displayed
 

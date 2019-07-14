@@ -30,4 +30,5 @@ Expected Results:
 
 
 PS:
-I would like to improve the check of the team creation: the displayed team name and description.
+- I would like to improve the check of the team creation: the displayed team name and description.
+- Change the wait from Thread.sleep to explicit wait (implicit wait didn't work).

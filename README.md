@@ -56,7 +56,7 @@ Install Java 8.
 
 ## Run the Tests
 
-To run them test, change the current working directory:
+To run tests, change the current working directory:
 
 ```bash
 cd TrelloChallenge

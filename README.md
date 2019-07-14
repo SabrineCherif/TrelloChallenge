@@ -32,3 +32,40 @@ Expected Results:
 PS:
 - I would like to improve the check of the team creation: the displayed team name and description.
 - Change the wait from Thread.sleep to explicit wait (implicit wait didn't work).
+
+
+# How to run the Tests
+
+## Technologies
+
+* Selenium
+* Selenide
+* Java
+
+
+## Prerequisites
+
+### Java
+
+Install Java 8.
+
+### Google Chrome
+
+ Make sure that you have the  version 75.x of Chrome before you run the tests later in this guide.
+
+
+## Run the Tests
+
+To run them test, change the current working directory:
+
+```bash
+cd TrelloChallenge
+```
+
+And now you can run the demo tests using the command below:
+
+```bash
+mvnw clean test
+```
+
+The [Maven Wrapper] will take it from here, During the execution of tests, Chrome will automatically open and close several times.

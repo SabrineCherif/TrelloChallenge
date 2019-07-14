@@ -39,7 +39,7 @@ PS:
 ## Technologies
 
 * Selenium
-* Selenide
+* Junit
 * Java
 
 
